@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/90a25de2-5d3d-4e5b-a0c8-e9fd79476c27)# HeadphoneSpeakerSwitcher
+# HeadphoneSpeakerSwitcher
 An interactive Rainmeter skin for your desktop to switch audio
 
 HeadphoneSpeakerSwitcher allows you to switch between the speaker and headphone audio by setting the default device and default communication device
